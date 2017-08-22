@@ -9,4 +9,8 @@ FIRSTNAME1=anne
 echo "My first name is $first_last_name"
 echo "My middle name is $firstLastName"
 echo "My last name is $FIRSTNAME1"
+<<<<<<< Updated upstream
 asdfasdf
+=======
+echo "This is how it works"
+>>>>>>> Stashed changes
